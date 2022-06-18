@@ -5,5 +5,7 @@ Welcome to kichten
 Keer
 pasta
 chicken fry
+beans
+pizza
 
 Thank You
